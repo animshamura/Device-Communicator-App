@@ -73,7 +73,8 @@ Place app screenshots in the folder below:
 
 Example:
 
-![Main UI](docs/screenshots/device-communicator-main.png)
+![Main UI](https://github.com/animshamura/Device-Communicator-App/docs/screenshots/device-communicator-main.png)
+
 
 ## License
 
