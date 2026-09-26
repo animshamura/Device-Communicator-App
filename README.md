@@ -1,5 +1,7 @@
 # DeviceCommunicatorApp
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A Windows desktop tool for communicating with network devices over TCP. It supports connection setup, text and hex payload sending, receive logging, and protocol-style terminal inspection.
 
 ## Overview
@@ -72,6 +74,10 @@ Place app screenshots in the folder below:
 Example:
 
 ![Main UI](docs/screenshots/device-communicator-main.png)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Notes
 
