@@ -1,0 +1,41 @@
+# Build outputs
+bin/
+obj/
+out/
+[Bb]uild/
+
+# User-specific VS files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Visual Studio temporary files
+*.db-shm
+*.db-wal
+
+# JetBrains / Rider
+.idea/
+*.iml
+
+# GitHub / local notes
+*.orig
